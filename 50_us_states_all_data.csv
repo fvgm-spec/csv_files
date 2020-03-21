@@ -1,0 +1,70 @@
+ALABAMA,Alabama,AL,Ala.,,,,DL State,
+ALASKA,Alaska,AK,Alaska,AK,,,AB,#N/A
+ARIZONA,Arizona,AZ,Ariz.,AZ,,,AK,AK
+ARKANSAS,Arkansas,AR,Ark.,AR,,,AL,AL
+CALIFORNIA,California,CA,Calif.,CA,,,AR,AR
+COLORADO,Colorado,CO,Colo.,CO,,,AS,#N/A
+CONNECTICUT,Connecticut,CT,Conn.,CT,,,AZ,AZ
+DELAWARE,Delaware,DE,Del.,DE,,,BC,#N/A
+FLORIDA,Florida,FL,Fla.,FL,,,CA,CA
+GEORGIA,Georgia,GA,Ga.,GA,,,CO,CO
+HAWAII,Hawaii,HI,Hawaii,HI,,,CT,CT
+IDAHO,Idaho,ID,Idaho,ID,,,DC,#N/A
+ILLINOIS,Illinois,IL,Ill.,IL,,,DE,DE
+INDIANA,Indiana,IN,Ind.,IN,,,FL,FL
+IOWA,Iowa,IA,Iowa,IA,,,GA,GA
+KANSAS,Kansas,KS,Kan.,KS,,,GU,#N/A
+KENTUCKY,Kentucky,KY,Ky.,KY,,,HI,HI
+LOUISIANA,Louisiana,LA,La.,LA,,,IA,IA
+MAINE,Maine,ME,Maine,ME,,,ID,ID
+MARYLAND,Maryland,MD,Md.,MD,,,IL,IL
+MASSACHUSETTS,Massachusetts,MA,Mass.,MA,,,IN,IN
+MICHIGAN,Michigan,MI,Mich.,MI,,,IT,#N/A
+MINNESOTA,Minnesota,MN,Minn.,MN,,,KS,KS
+MISSISSIPPI,Mississippi,MS,Miss.,MS,,,KY,KY
+MISSOURI,Missouri,MO,Mo.,MO,,,LA,LA
+MONTANA,Montana,MT,Mont.,MT,,,MA,MA
+NEBRASKA,Nebraska,NE,Neb.,NE,,,MB,#N/A
+NEVADA,Nevada,NV,Nev.,NV,,,MD,MD
+NEW HAMPSHIRE,New Hampshire,NH,N.H.,NH,,,ME,ME
+NEW JERSEY,New Jersey,NJ,N.J.,NJ,,,MI,MI
+NEW MEXICO,New Mexico,NM,N.M.,NM,,,MN,MN
+NEW YORK,New York,NY,N.Y.,NY,,,MO,MO
+NORTH CAROLINA,North Carolina,NC,N.C.,NC,,,MS,MS
+NORTH DAKOTA,North Dakota,ND,N.D.,ND,,,MT,MT
+OHIO,Ohio,OH,Ohio,OH,,,NB,#N/A
+OKLAHOMA,Oklahoma,OK,Okla.,OK,,,NC,NC
+OREGON,Oregon,OR,Ore.,OR,,,ND,ND
+PENNSYLVANIA,Pennsylvania,PA,Pa.,PA,,,NE,NE
+RHODE ISLAND,Rhode Island,RI,R.I.,RI,,,NF,#N/A
+SOUTH CAROLINA,South Carolina,SC,S.C.,SC,,,NH,NH
+SOUTH DAKOTA,South Dakota,SD,S.D.,SD,,,NJ,NJ
+TENNESSEE,Tennessee,TN,Tenn.,TN,,,NM,NM
+TEXAS,Texas,TX,Texas,TX,,,NS,#N/A
+UTAH,Utah,UT,Utah,UT,,,NV,NV
+VERMONT,Vermont,VT,Vt.,VT,,,NY,NY
+VIRGINIA,Virginia,VA,Va.,VA,,,OH,OH
+WASHINGTON,Washington,WA,Wash.,WA,,,OK,OK
+WEST VIRGINIA,West Virginia,WV,W.Va.,WV,,,ON,#N/A
+WISCONSIN,Wisconsin,WI,Wis.,WI,,,OR,OR
+WYOMING,Wyoming,WY,Wyo.,WY,,,PA,PA
+,,,,,,,PE,#N/A
+,,,,,,,PQ,#N/A
+,,,,,,,PR,#N/A
+,,,,,,,QC,#N/A
+,,,,,,,RI,RI
+,,,,,,,SC,SC
+,,,,,,,SD,SD
+,,,,,,,SK,#N/A
+,,,,,,,TN,TN
+,,,,,,,TX,TX
+,,,,,,,US,#N/A
+,,,,,,,UT,UT
+,,,,,,,VA,VA
+,,,,,,,VI,#N/A
+,,,,,,,VT,VT
+,,,,,,,WA,WA
+,,,,,,,WI,WI
+,,,,,,,WV,WV
+,,,,,,,WY,WY
+,,,,,,,XX,#N/A
